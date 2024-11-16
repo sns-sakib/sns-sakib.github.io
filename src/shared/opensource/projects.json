@@ -2,10 +2,32 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
+      "name": "Object Detection with socket programming",
       "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "url": "https://github.com/sns-sakib/object-detection-with-socket-programming",
+      "description": "Object detection with socket programming where camera feed with object detection feature can be accessed with any device in the same network.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": " Real-time weapon detection system (Python) ",
+      "createdAt": "2023-04-13T04:18:19Z",
+      "url": "https://github.com/sns-sakib/Real-time-gun-detection",
+      "description": "Real time detection of weapon from image, video and webcam.",
       "isFork": false,
       "languages": [
         {
@@ -24,10 +46,10 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
+      "name": "Textual similarity between documents",
       "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "url": "https://github.com/sns-sakib/document_similarity_using_doc2vec_and_flask",
+      "description": "A Doc2Vec model is trained on the invoice dataset which predicts  textual similarities between text files.",
       "isFork": false,
       "languages": [
         {
@@ -38,85 +60,15 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
+      "name": "Face Recognition based attendance system(C#)",
       "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "url": "https://github.com/sns-sakib/face-recognition-based-attendance-system-with-c-sharp-",
+      "description": "A full attendance system with options of taking attendance manually or by face recognition has been built with the help of emgu cv 3.0 library .",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "C#",
+          "iconifyClass": "devicon:csharp"
         }
       ]
     }
