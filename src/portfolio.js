@@ -267,8 +267,11 @@ const degrees = {
       alt_name: "University of Idaho",
       duration: "2023 - Present",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence, Graph Machine Learning, NLP, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. ",
+        "Advisor: Dr Hasan Jamil",
+        "⚡ I am working on leveraging LLM in biomedical field",
+        "⚡ Data accessibilty using LLM",
+        "⚡ LLM and database management",
+        "⚡ LLM and Knowledgegraph",
       ],
       website_link: "https://www.uidaho.edu/",
     },
