@@ -20,10 +20,10 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Nazmus Sakib",
-  logo_name: "AshutoshHathidara",
+  logo_name: "NAZMUS_SAKIB",
   nickname: "",
   subTitle:
-    "Passionate about AI, always exploring new ideas in Machine Learning and NLP to make a difference.",
+    "Passionate about AI, always exploring new ideas to make a difference. Specialized in Machine Learning, Deep Learning, Generative AI, and LLM",
   resumeLink:
     "https://drive.google.com/file/d/1dZ8mVfShgi9djLpGPDZO3VUOM4DUC78d/view?usp=sharing",
   portfolio_repository: "https://github.com/sns-sakib",
